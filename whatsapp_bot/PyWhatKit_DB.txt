@@ -1,0 +1,40 @@
+Date: 10/1/2022
+Time: 22:40
+Phone Number: +972543117141
+Message: Hi There
+--------------------
+Date: 10/1/2022
+Time: 22:43
+Phone Number: +972505958565
+Message: Hi There
+--------------------
+Date: 10/1/2022
+Time: 22:44
+Phone Number: +972505958565
+Message: Hi There
+--------------------
+Date: 10/1/2022
+Time: 22:58
+Phone Number: +972505958565
+Message: Hi This is a Chuck Noris Joke:{'categories': [], 'created_at': '2020-01-05 13:42:25.099703', 'icon_url': 'https://assets.chucknorris.host/img/avatar/chuck-norris.png', 'id': 'doNwkWh9Rjaa2EzNKoLA7A', 'updated_at': '2020-01-05 13:42:25.099703', 'url': 'https://api.chucknorris.io/jokes/doNwkWh9Rjaa2EzNKoLA7A', 'value': 'Chuck Norris once shot down a German fighter plane with his finger, by yelling, "Bang!"'}
+--------------------
+Date: 10/1/2022
+Time: 23:1
+Phone Number: +972505958565
+Message: Hi This is a Chuck Noris Joke:Chuck Norris once farted on someone and was a very gross one that the man got sick with a disease. This disease is now what we call: Ebola.
+--------------------
+Date: 10/1/2022
+Time: 23:4
+Phone Number: +972543117141
+Message: Hi This is a Chuck Noris Joke: the tide recedes because it knows Chuck Norris is coming
+--------------------
+Date: 10/1/2022
+Time: 23:7
+Phone Number: +972543117141
+Message: Hi This is a Chuck Noris Joke: Chuck Norris likes to perform chuckalingus on his ladies.
+--------------------
+Date: 10/1/2022
+Time: 23:9
+Phone Number: +972543117141
+Message: Hi This is a Chuck Noris Joke: Chuck Norris can bring a gun to a lightsaber duel
+--------------------
