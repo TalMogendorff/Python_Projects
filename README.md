@@ -1,5 +1,5 @@
 # Python_Projects
-Few Python projects with Testing using Pytest
+Few Python projects :
 
 1. Fast_API_Docker_PyTest- Just a simple automation thats build and running the container for the API and then using PyTest framework for testing.
 
